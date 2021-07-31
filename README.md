@@ -4,6 +4,6 @@ The web browser has its own homepage and user can customize it according to thei
 The browser also contains back, reload and forward buttons to operate.
 # Instructions
 1. Install PyQt5 library:
-pip install PyQt5
+"pip install PyQt5"
 2. Install python web engine library:
-pip install PyQtWebEngine
+"pip install PyQtWebEngine"
